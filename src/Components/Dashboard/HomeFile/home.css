@@ -1,0 +1,24 @@
+.abc{
+    background-color:  rgb(160, 233, 233);
+}
+
+.logo{
+    color: brown;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#home{
+text-align: center;
+font-size: 50px;
+padding-top: 20px;
+}
+
+.heading{
+    padding-left: 20px;
+    font-size: 22px;
+}
+
+.lr{
+padding-left: 900px;
+}
